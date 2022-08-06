@@ -149,4 +149,16 @@ export default {
     justify-content: space-between;
     color: #536471;
   }
+
+  .pointer{
+    cursor: pointer;
+  }
+
+  .heart{
+    color: #D75281;
+  }
+
+  .retweet{
+    color: #0096FF;
+  }
 </style>
